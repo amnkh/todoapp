@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+##### Packtpub Professional Ruby on Rails Developer with Rails 5 [Video]
